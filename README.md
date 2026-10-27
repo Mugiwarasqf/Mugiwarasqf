@@ -1,27 +1,27 @@
 ## 👋 Hi, I'm Oluwadamife
 
-I'm a Cloud Engineer passionate about building scalable, automated, and production-ready systems.
+Cloud engineer based in Manchester, focused on AWS, infrastructure as code and CI/CD.
+I trained as an architect, so I approach cloud systems the same way: design the structure first, then build it to last.
+
+🏅 **AWS Certified Cloud Practitioner**
 
 ### ☁️ What I Do
-- Build and deploy cloud solutions across AWS, Azure, and GCP
-- Automate infrastructure using Terraform (IaC)
-- Work with containerized applications using Docker & Kubernetes
-- Develop serverless applications with AWS Lambda, API Gateway, and S3
-- Implement monitoring using Prometheus & Grafana
+- Provision AWS infrastructure with Terraform, plus modular builds for Azure and GCP
+- Build CI/CD pipelines with GitHub Actions and Jenkins
+- Build serverless apps with Lambda, API Gateway, DynamoDB and S3
+- Containerise applications with Docker
+- Set up monitoring with Prometheus and Grafana
 
 ### 🚀 Projects
-- 🛒 Kubernetes-based Shopping App with CI/CD pipeline
-- 🔊 Serverless Text Narrator (AWS Lambda + Polly + API Gateway)
-- 🌍 Multi-Cloud Deployment Framework using Terraform
-- 📊 Cloud-based analytics dashboard with AWS QuickSight
+- 🐔 [Trackfarm](https://github.com/Mugiwarasqf/track-farm-app): poultry farm records app with a React frontend and serverless AWS backend (Lambda, DynamoDB, Cognito)
+- 🔊 [Serverless Text Narrator](https://github.com/Mugiwarasqf/Amazon-Polly-Text-Narrator): text-to-speech with Polly, Lambda, S3, API Gateway and CloudFront, provisioned with Terraform
+- 🌐 [Multi-Cloud Terraform](https://github.com/Mugiwarasqf/Multi-cloud-terraform): reusable 3-tier modules (network, compute, database) for AWS, Azure and GCP
+- 📅 [Daily Task Scheduler](https://github.com/Mugiwarasqf/Task-Scheduler-Project): serverless scheduler with EventBridge and SNS alerts, Terraform and GitHub Actions deploys
+- 📊 [Real-Time Analytics Dashboard](https://github.com/Mugiwarasqf/Code_Legends): Kinesis, Lambda and DynamoDB feeding QuickSight for small business insights
+- 🏷️ [Image Label Generator](https://github.com/Mugiwarasqf/Image-Label-Generator): image tagging with Amazon Rekognition
 
 ### 🛠️ Tech Stack
-`AWS` `Azure` `GCP` `Terraform` `Docker` `Kubernetes`  
-`Git` `CI/CD` `Prometheus` `Grafana`
+`AWS` `Terraform` `GitHub Actions` `Jenkins` `Docker` `Kubernetes` `Prometheus` `Grafana` `Git` `Linux` `Azure` `GCP`
 
-### 📈 Currently
-- Deepening my knowledge in Cloud Architecture & DevOps
-- Building more real-world, production-ready projects
-
-### 🤝 Let's Connect
-Open to collaboration, learning, and cloud engineering opportunities.
+### 📫 Open to
+Junior cloud and DevOps roles in Greater Manchester. Reach me via the LinkedIn link in my profile.
